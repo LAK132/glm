@@ -42,7 +42,7 @@ Testing/*
 test/gtc/*.dds
 
 # Project Files
-Makefile
+# Makefile
 *.cbp
 *.user
 
